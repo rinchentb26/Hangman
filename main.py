@@ -8,7 +8,6 @@ lives=6
 
 print(logo)
 chosen_word=random.choice(word_list)
-print(chosen_word)
 
 #create a list display[] which will eventually reveal the secret word as the user guesses
 display=[]
